@@ -1,0 +1,9 @@
+
+.post-add-form {
+    margin-top: 20px;
+}
+.post-add-form .post-add-form-label {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+}
